@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="SelimSirriPasaKonagi2" size="250.000000 444.444458" />
+    <ImageTarget name="SelimSirriPasaKonagi" size="250.000000 444.444458" />
+    <ImageTarget name="IzmitSaatKulesi3" size="250.000000 444.444458" />
+    <ImageTarget name="IzmitSaatKulesi2" size="250.000000 444.444458" />
+    <ImageTarget name="IzmitSaatKulesi" size="250.000000 444.444458" />
+    <ImageTarget name="KasriHumayun2" size="250.000000 444.444458" />
+    <ImageTarget name="YeniCumaCamii2" size="250.000000 444.444458" />
+    <ImageTarget name="YeniCumaCamii" size="250.000000 444.444458" />
+    <ImageTarget name="KasriHumayun" size="250.000000 444.444458" />
+  </Tracking>
+</QCARConfig>

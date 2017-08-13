@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Art1 - Kopya (2)", "Assembly-CSharp.csproj", "{55743493-3670-7423-9DD1-76D4E83E32BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Art1 - Kopya (2)", "Assembly-CSharp-Editor.csproj", "{AB0697FF-3D4D-F084-F138-75DE76BC1225}"
+EndProject
+Project("{EA12D101-E188-4975-34EE-FC566DA590B5}") = "Art1 - Kopya (2)", "Assembly-UnityScript-Editor-firstpass.unityproj", "{8DF594A3-960C-8152-1D4F-86A49E72F554}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55743493-3670-7423-9DD1-76D4E83E32BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55743493-3670-7423-9DD1-76D4E83E32BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55743493-3670-7423-9DD1-76D4E83E32BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55743493-3670-7423-9DD1-76D4E83E32BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB0697FF-3D4D-F084-F138-75DE76BC1225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0697FF-3D4D-F084-F138-75DE76BC1225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB0697FF-3D4D-F084-F138-75DE76BC1225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB0697FF-3D4D-F084-F138-75DE76BC1225}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DF594A3-960C-8152-1D4F-86A49E72F554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DF594A3-960C-8152-1D4F-86A49E72F554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DF594A3-960C-8152-1D4F-86A49E72F554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DF594A3-960C-8152-1D4F-86A49E72F554}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
